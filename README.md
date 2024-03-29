@@ -1,6 +1,6 @@
 # Password Generator
 
-This project contains a simple password generator app built with react and tailwind CSS that generates a random password including option to add random numbers and special characters.
+This project contains a simple password generator app built with react and styled with Tailwind CSS. It allow users to effortlessly generate secure passwords, with the added flexibility of including random numbers and special characters.
 
 ## Sample
 
